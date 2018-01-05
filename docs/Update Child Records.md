@@ -16,5 +16,5 @@ The parameters are:
 * **Child Field Name to Update**: The destination field name on the child entity
 
 NOTES:
-1) The relationship Name must existe on CRM
-2) The parent and child field types must to be the same 
+1) The relationship name must exist in CRM
+2) The parent and child field types must to be the same
